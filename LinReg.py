@@ -1,3 +1,5 @@
+#USING LINEAR REGRESSION (acc 81%)
+
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 import seaborn as sns

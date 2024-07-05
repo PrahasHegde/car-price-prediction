@@ -1,3 +1,5 @@
+#USING RANDOM FOREST REGRESSION (acc 95%)
+
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 import seaborn as sns
