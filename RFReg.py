@@ -10,9 +10,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 import plotly.express as px
 
 
-
-
-
+#load dataset
 df = pd.read_csv('CarPrice_Assignment.csv')
 
 pd.set_option('display.max_columns' , 100)
